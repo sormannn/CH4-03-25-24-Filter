@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "65fda56d0da26e0c19eaaec4",
+    "name": "Maryann Coleman",
+    "email": "maryanncoleman@insource.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56db6194f97616abf2f",
+    "name": "Sally Wagner",
+    "email": "sallywagner@insource.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56d7e97cc5fbc3c2cf4",
+    "name": "Jocelyn Alexander",
+    "email": "jocelynalexander@insource.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56d276e38a8a91b27b4",
+    "name": "Thornton Robbins",
+    "email": "thorntonrobbins@insource.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56dba4b968c914f879b",
+    "name": "Little Mendez",
+    "email": "littlemendez@insource.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56de0472d89368e7af7",
+    "name": "Cohen Daugherty",
+    "email": "cohendaugherty@insource.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56d569be15bfcf8a250",
+    "name": "Lauri Thompson",
+    "email": "laurithompson@insource.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": ""
+  }
+]
